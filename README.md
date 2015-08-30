@@ -14,7 +14,8 @@
 
 [concat-regexp](https://github.com/michaelrhodes/concat-regexp) - <sub><sup>A function that takes a series of regular expressions and returns them in concatenated form.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[cookies](https://github.com/pillarjs/cookies) - <sub><sup>Signed and unsigned cookies based on Keygrip</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
