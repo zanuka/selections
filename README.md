@@ -1,6 +1,6 @@
 # stacks
 
-### front-end dependencies
+### front-end
 
 [array-differ](https://github.com/sindresorhus/array-differ) - <sub><sup>Create an array with values that are present in the first input array but not additional ones.</sub></sup>
 
