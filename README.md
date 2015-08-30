@@ -50,7 +50,8 @@
 
 [object-assign](https://github.com/sindresorhus/object-assign) - <sub><sup>ES6 Object.assign() ponyfill</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[path-parse](https://github.com/jbgutierrez/path-parse) - <sub><sup>Node.js path.parse() ponyfill</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
