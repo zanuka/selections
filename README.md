@@ -36,6 +36,12 @@
 
 [imports-loader](https://github.com/webpack/imports-loader) - <sub><sup>imports loader module for webpack</sup></sub>
 
+[is-plain-object](https://github.com/jonschlinkert/is-plain-object) - <sub><sup>Return `true` if the given `value` is an object created by the `Object` constructor.</sup></sub>
+
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
