@@ -42,7 +42,8 @@
 
 [mobile-detect](https://github.com/hgoebl/mobile-detect.js) - <sub><sup>Device detection (phone, tablet, desktop, mobile grade, os, versions)</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[morgan](https://github.com/expressjs/morgan) - <sub><sup>HTTP request logger middleware for node.js</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
