@@ -18,7 +18,8 @@
 
 [core-js](https://github.com/zloirock/core-js) - <sub><sup>Modular compact standard library for JavaScript.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[deep-equal](https://github.com/substack/node-deep-equal) - <sub><sup>node's assert.deepEqual algorithm</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
