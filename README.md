@@ -34,7 +34,8 @@
 
 [globby](https://github.com/sindresorhus/globby) - <sub><sup>Extends `glob` with support for multiple patterns</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[imports-loader](https://github.com/webpack/imports-loader) - <sub><sup>imports loader module for webpack</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
