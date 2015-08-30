@@ -24,7 +24,8 @@
 
 [dustjs](https://github.com/linkedin/dustjs) - <sub><sup>Asynchronous templates for the browser and server (LinkedIn fork)</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[expose-loader](https://github.com/webpack/expose-loader) - <sub><sup>expose loader module for webpack</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
