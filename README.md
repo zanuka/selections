@@ -54,6 +54,10 @@
 
 [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - <sub><sup>Express-style path to regexp</sup></sub>
 
+[performance-now](https://github.com/meryn/performance-now) - <sub><sup>Implements performance.now (based on process.hrtime).</sup></sub>
+
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
