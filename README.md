@@ -12,6 +12,11 @@
 
 [camelcase](https://github.com/sindresorhus/camelcase) - <sub><sup>Convert a dash/dot/underscore/space separated string to camelCase</sup></sub>
 
+[concat-regexp](https://github.com/michaelrhodes/concat-regexp) - <sub><sup>A function that takes a series of regular expressions and returns them in concatenated form.</sup></sub>
+
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
