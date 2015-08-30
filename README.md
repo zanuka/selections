@@ -56,7 +56,8 @@
 
 [performance-now](https://github.com/meryn/performance-now) - <sub><sup>Implements performance.now (based on process.hrtime).</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[querystringify](https://github.com/unshiftio/querystringify) - <sub><sup>Querystringify - Small, simple but powerful query string parser.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
