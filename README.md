@@ -30,6 +30,7 @@
 
 [figlet](https://github.com/patorjk/figlet.js) - <sub><sup>A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[gator](https://github.com/ccampbell/gator) - <sub><sup>Event delegation in Javascript</sup></sub>
+
 []() - <sub><sup></sup></sub>
 
