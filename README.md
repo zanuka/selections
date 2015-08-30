@@ -52,7 +52,8 @@
 
 [path-parse](https://github.com/jbgutierrez/path-parse) - <sub><sup>Node.js path.parse() ponyfill</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[path-to-regexp](https://github.com/pillarjs/path-to-regexp) - <sub><sup>Express-style path to regexp</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
