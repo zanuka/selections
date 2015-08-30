@@ -64,7 +64,8 @@
 
 [to-array](https://github.com/Raynos/to-array) - <sub><sup>Turn an array like into an array</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[url-parse](https://github.com/unshiftio/url-parse) - <sub><sup>Parse URL in node using the URL module and in the browser using the DOM.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
