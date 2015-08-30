@@ -60,6 +60,7 @@
 
 [regexp.prototype.flags](https://github.com/es-shims/RegExp.prototype.flags) - <sub><sup>ES6 spec-compliant RegExp.prototype.flags shim.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[request](https://github.com/request/request) - <sub><sup>Simplified HTTP request client.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 
