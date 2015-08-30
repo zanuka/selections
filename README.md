@@ -26,7 +26,8 @@
 
 [expose-loader](https://github.com/webpack/expose-loader) - <sub><sup>expose loader module for webpack</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[express](https://github.com/strongloop/express) - <sub><sup>Fast, unopinionated, minimalist web framework for node.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
