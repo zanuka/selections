@@ -58,7 +58,8 @@
 
 [querystringify](https://github.com/unshiftio/querystringify) - <sub><sup>Querystringify - Small, simple but powerful query string parser.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[regexp.prototype.flags](https://github.com/es-shims/RegExp.prototype.flags) - <sub><sup>ES6 spec-compliant RegExp.prototype.flags shim.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
