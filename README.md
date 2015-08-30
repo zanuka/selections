@@ -40,7 +40,7 @@
 
 [isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - <sub><sup>Isomorphic WHATWG Fetch API, for Node & Browserify</sup></sub>
 
-
+[mobile-detect](https://github.com/hgoebl/mobile-detect.js) - <sub><sup>Device detection (phone, tablet, desktop, mobile grade, os, versions)</sup></sub>
 
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
