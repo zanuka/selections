@@ -10,8 +10,8 @@
 
 [bunyan](https://github.com/trentm/node-bunyan) - <sub><sup>a simple and fast JSON logging module for node.js services</sup></sub>
 
-[]() - <sub><sup></sup></sub>
-[]() - <sub><sup></sup></sub>
+[camelcase](https://github.com/sindresorhus/camelcase) - <sub><sup>Convert a dash/dot/underscore/space separated string to camelCase</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
