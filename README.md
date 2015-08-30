@@ -44,7 +44,8 @@
 
 [morgan](https://github.com/expressjs/morgan) - <sub><sup>HTTP request logger middleware for node.js</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[morphdom](https://github.com/patrick-steele-idem/morphdom) - <sub><sup>Fast and lightweight DOM diffing/patching (without the virtual part)</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
