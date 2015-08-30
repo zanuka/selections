@@ -48,7 +48,8 @@
 
 [native-promise-only](https://github.com/getify/native-promise-only) - <sub><sup>A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[object-assign](https://github.com/sindresorhus/object-assign) - <sub><sup>ES6 Object.assign() ponyfill</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
