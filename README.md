@@ -32,5 +32,9 @@
 
 [gator](https://github.com/ccampbell/gator) - <sub><sup>Event delegation in Javascript</sup></sub>
 
+[globby](https://github.com/sindresorhus/globby) - <sub><sup>Extends `glob` with support for multiple patterns</sup></sub>
+
+[]() - <sub><sup></sup></sub>
+[]() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 
