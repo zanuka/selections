@@ -38,7 +38,8 @@
 
 [is-plain-object](https://github.com/jonschlinkert/is-plain-object) - <sub><sup>Return `true` if the given `value` is an object created by the `Object` constructor.</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - <sub><sup>Isomorphic WHATWG Fetch API, for Node & Browserify</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
