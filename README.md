@@ -16,7 +16,8 @@
 
 [cookies](https://github.com/pillarjs/cookies) - <sub><sup>Signed and unsigned cookies based on Keygrip</sup></sub>
 
-[]() - <sub><sup></sup></sub>
+[core-js](https://github.com/zloirock/core-js) - <sub><sup>Modular compact standard library for JavaScript.</sup></sub>
+
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
 []() - <sub><sup></sup></sub>
