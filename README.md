@@ -1,8 +1,6 @@
-# ammo
+# selections
 
-__noun__
-
-**Ammunition : The platoon has plenty of ammo**
+links to modules either currently used or remnants of projects past
 
 [array-differ](https://github.com/sindresorhus/array-differ) - <sub><sup>Create an array with values that are present in the first input array but not additional ones.</sub></sup>
 
